@@ -1,3 +1,3 @@
 # Demo
 ## Intro
-This is my firts Git Repository - Rishi Patel
+This is my firts Git Repository <br>Rishi Patel
